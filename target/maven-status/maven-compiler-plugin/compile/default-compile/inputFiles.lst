@@ -1,0 +1,17 @@
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\adapters\out\entities\ItemEntity.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\adapters\in\http\dtos\NewItemDto.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\exception\BussinessException.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\adapters\in\http\mappers\ItemMapper.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\clients\ProductFeignClient.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\ItemServiceApplication.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\CreateItemUseCase.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\clients\QueryProductDto.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\adapters\in\http\controllers\ItemController.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\exception\AdviceException.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\domain\Item.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\ports\in\CreateItemPort.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\enums\ExceptionEnum.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\mappers\ItemEntityMapper.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\application\exception\Error.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\ports\out\EntityRepository.java
+C:\DockerReto\item-service\src\main\java\com\freetech\items\itemservice\infraestructure\adapters\out\PostgresRepository.java
